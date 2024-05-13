@@ -1,0 +1,97 @@
+.register-box
+{
+    width: 300px;
+    margin:auto;
+    position: absolute;
+    top:15%;
+    right:40.2%;
+
+    border-radius: 20px;
+    box-shadow: 2px 2px 2px #c8d1cdcc;
+    padding: 1rem;
+    /* transform: translate(0,10%); */
+    background-color: #e8efecb7;
+    /* opacity: 0.5; */
+    color:black;
+    
+
+}
+
+.register-box h1
+{
+    text-align: center;
+    padding:10px;
+    padding-top: 0px;
+}
+.register-entries
+{
+    padding: 0.15rem;
+}
+
+.register-entries input
+{
+    background-color: white;
+    margin: 0;
+    padding: 5px;
+    width: 100%;
+    border-radius: 10px;
+    border: 1px solid black;
+}
+
+
+/* login */
+.login-box
+{
+    display:block;
+    border-radius: 20px;
+    width: 300px;
+    margin: auto;
+    /* position: relative; */
+
+    padding: 1rem;
+    box-shadow: 2px 2px 2px #ced2d0;
+    background-color: #e8efecb7;
+    transform: translate(0%,30%);
+
+}
+.login-box h1
+{
+    text-align: center;
+    padding:10px;
+    padding-top: 0px;
+}
+.login-entries
+{
+    padding: 0.15rem;
+}
+.login-wrapper
+{
+    text-align: center;
+}
+.login-entries input
+{
+    background-color: white;
+    margin: 0;
+    padding: 5px;
+    width: 100%;
+    border-radius: 10px;
+    border: 1px solid black;
+}
+
+.submit-button input
+{
+  color:aliceblue;
+  font-weight: bold;
+  font-size:1.1rem;
+  background-color: rgb(58, 94, 210);
+}
+.submit-button button
+{
+  color:aliceblue;
+  font-weight: bold; 
+  font-size:1.2rem;
+  border: none;
+  padding: 5px;
+  border-radius: 10px;
+  background-color: rgb(58, 94, 210);
+}
